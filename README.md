@@ -7,6 +7,10 @@ Application of Image processing using ITK.
 | Input | Output |
 | ---- | ---- |
 | <img src="https://github.com/Nobu575/AppITK/blob/main/jenga.png" width=240> | <img src="https://github.com/Nobu575/AppITK/blob/main/jenga_g.png" width=240> 
+### Gaussian filter 2D
+| Input | Output |
+| ---- | ---- |
+| <img src="https://github.com/Nobu575/AppITK/blob/main/jenga_g.png" width=240> | <img src="https://github.com/Nobu575/AppITK/blob/main/img/jenga_gauss.png" width=240> 
 
 # Author
 Hidenobu SUZUKI
