@@ -24,6 +24,9 @@ Application of Image processing using ITK.
 ### Closing binary image 2D
 <img src="https://github.com/Nobu575/AppITK/blob/main/img/jenga_closing2d.png" width=640>
 
+### Opening binary image 2D
+<img src="https://github.com/Nobu575/AppITK/blob/main/img/jenga_opening2d.png" width=640>
+
 # Author
 Hidenobu SUZUKI
 
