@@ -21,6 +21,9 @@ Application of Image processing using ITK.
 ### Extract Boundaries of Connected Regions in Binary Image 2D
 <img src="https://github.com/Nobu575/AppITK/blob/main/img/jenga_contour2d.png" width=640>
 
+### Closing binary image 2D
+<img src="https://github.com/Nobu575/AppITK/blob/main/img/jenga_closing2d.png" width=640>
+
 # Author
 Hidenobu SUZUKI
 
