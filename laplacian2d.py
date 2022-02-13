@@ -3,7 +3,7 @@ import itk
 import matplotlib.pyplot as plt
 
 # Input file name
-input_filename = './jenga_g.png'
+input_filename = './jenga_g_150.png'
 
 # Set dimension
 Dimension = 2
@@ -33,8 +33,12 @@ laplacianFilter = itk.LaplacianImageFilter.New(reader)
 # Convert data type
 rescaler = itk.IntensityWindowingImageFilter[OutputImageType,OutputImageType].New()
 rescaler.SetInput(laplacianFilter.GetOutput())
-rescaler.SetWindowMinimum(-10)
-rescaler.SetWindowMaximum(10)
+wincenter = 0.0
+winwidth = 100000.0
+min = float(wincenter - winwidth/2.0)
+max = float(wincenter + winwidth/2.0)
+rescaler.SetWindowMinimum(min)
+rescaler.SetWindowMaximum(max)
 rescaler.SetOutputMinimum(0)
 rescaler.SetOutputMaximum(255)
 
