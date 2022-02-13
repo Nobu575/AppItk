@@ -15,6 +15,8 @@ Application of Image processing using ITK.
 | Input | Output |
 | ---- | ---- |
 | <img src="https://github.com/Nobu575/AppITK/blob/main/jenga_g_150.png" width=240> | <img src="https://github.com/Nobu575/AppITK/blob/main/img/jenga_laplacian.png" width=240> 
+### Distance transform 2D
+<img src="https://github.com/Nobu575/AppITK/blob/main/img/distance2d.png" width=480>
 
 # Author
 Hidenobu SUZUKI
