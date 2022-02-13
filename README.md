@@ -16,7 +16,10 @@ Application of Image processing using ITK.
 | ---- | ---- |
 | <img src="https://github.com/Nobu575/AppITK/blob/main/jenga_g_150.png" width=240> | <img src="https://github.com/Nobu575/AppITK/blob/main/img/jenga_laplacian.png" width=240> 
 ### Distance transform 2D
-<img src="https://github.com/Nobu575/AppITK/blob/main/img/jenga_distance2d.png" width=480>
+<img src="https://github.com/Nobu575/AppITK/blob/main/img/jenga_distance2d.png" width=640>
+
+### Extract Boundaries of Connected Regions in Binary Image 2D
+<img src="https://github.com/Nobu575/AppITK/blob/main/img/jenga_contour2d.png" width=640>
 
 # Author
 Hidenobu SUZUKI
