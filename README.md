@@ -14,7 +14,7 @@ Application of Image processing using ITK.
 ### Laplacian filter 2D
 | Input | Output |
 | ---- | ---- |
-| <img src="https://github.com/Nobu575/AppITK/blob/main/jenga_g.png" width=240> | <img src="https://github.com/Nobu575/AppITK/blob/main/img/jenga_laplacian.png" width=240> 
+| <img src="https://github.com/Nobu575/AppITK/blob/main/jenga_g_150.png" width=240> | <img src="https://github.com/Nobu575/AppITK/blob/main/img/jenga_laplacian.png" width=240> 
 
 # Author
 Hidenobu SUZUKI
