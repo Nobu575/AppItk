@@ -1,6 +1,7 @@
 # AppItk
 
 Application of Image processing using ITK.
+Language: Python
 
 # Demo
 ### Color to grayscale 2D
