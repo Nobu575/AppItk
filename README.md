@@ -41,4 +41,5 @@ Language: Python
 Hidenobu SUZUKI
 
 # License
-"AppITK" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+ITK is distributed under a Apache 2.0 License.
+[ITK license information](http://www.itk.org/ITK/project/license.html).
